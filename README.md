@@ -1,0 +1,2 @@
+# Takue
+Setting up git
